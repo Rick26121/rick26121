@@ -1,6 +1,4 @@
-## Hey, Rick here!
-
-<h1>Welcome to my profile</h1> 
+<h1>Rick here! Welcome to my profile</h1> 
 
 ## :computer: Things I like to work on
 * Full-Stack Development
