@@ -14,7 +14,7 @@
 				'PHP',
         		'Laravel',
 				'Python',
-				'MySQL'
+				'MySQL',
 				'JavaFX'
 			]
 	
